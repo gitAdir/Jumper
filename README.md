@@ -8,7 +8,7 @@ O jogo desafia você a controlar o personagem em uma jornada através de diferen
 
 # 👨‍💻 Sobre o Desenvolvimento
 
-Este jogo foi construído utilizando a linguagem Python e a biblioteca [Mencione a biblioteca principal, ex: Pygame]. O desenvolvimento enfatizou a organização do código através da Programação Orientada a Objetos (POO), garantindo que elementos como o personagem, inimigos e plataformas fossem módulos de fácil manutenção.
+Este jogo foi construído utilizando a linguagem Python e o Pygame Zero (pgzrun), uma biblioteca que simplifica a criação de jogos 2D. O desenvolvimento enfatizou a organização do código através da Programação Orientada a Objetos (POO)
 
 # 💡 Próximos Passos
 
