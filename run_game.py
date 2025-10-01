@@ -625,7 +625,7 @@ def tutorial_draw():
         "Pule com a barra de espaço.\n"
         "Aperte a tecla ESC para acessar o Menu de pausa.\n\n"
         "Seu objetivo é chegar ao final da fase.\n"
-        "**ATENÇÃO:** Pule em cima dos inimigos para matá-los. Se for atingido lateralmente, morre!"
+        "Pule em cima dos inimigos para matá-los."
     )
     
     screen.draw.text(tutorial_text, center=(WIDTH // 2, HEIGHT // 2), 
